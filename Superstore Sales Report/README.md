@@ -19,8 +19,8 @@
 > 🚀 A **single-page Power BI report** that turns 9,994 Superstore order lines (2014–2017) into an interactive dashboard — 4 KPI cards, 4 charts, 2 slicers, and a Ship Mode list — so sales, profit, category, region, month, and state performance can be explored in real time.
 
 <br/>
-
-<img src="dashboard_screenshots/dashboard_overview.png" alt="Superstore Sales Dashboard — full view" width="850"/>
+/
+<img src="dashboard_overview.png" alt="Superstore Sales Dashboard — full view" width="850"/>
 
 </div>
 
